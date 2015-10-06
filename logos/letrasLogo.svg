@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="651.24463"
+   height="262.61774"
+   id="svg2604"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="letrasLogo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs2606">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2612" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.52"
+     inkscape:cx="332.19658"
+     inkscape:cy="163.85826"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false">
+    <sodipodi:guide
+       orientation="0,1"
+       position="228.17249,-0.29727492"
+       id="guide2656" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2609">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-94.68465,-155.16146)"
+     style="display:inline">
+    <rect
+       style="fill:none"
+       id="rect2596"
+       height="46.526497"
+       width="223.99539"
+       clip-rule="evenodd"
+       y="289.79382"
+       x="363.55521"
+       inkscape:export-filename="/home/joseantonio/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3430">
+      <text
+         sodipodi:linespacing="125%"
+         transform="scale(0.95966018,1.0420355)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/joseantonio/logo.png"
+         y="264.77292"
+         x="281.84814"
+         font-size="60"
+         id="text2598"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.98025131px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#abb7ca">
+        <tspan
+           id="tspan2692"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.98025131px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Oficina de</tspan>
+      </text>
+    </g>
+    <rect
+       style="fill:none"
+       id="rect2600"
+       height="51.179222"
+       width="283.3479"
+       clip-rule="evenodd"
+       y="328.19653"
+       x="363.55521"
+       inkscape:export-filename="/home/joseantonio/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text2602"
+       x="89.188988"
+       y="418.39716"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.09812927px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+       inkscape:export-filename="/home/joseantonio/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.1440652,0.87407608)"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.09812927px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e95b2a"
+         id="tspan2604"
+         font-size="66"
+         y="418.39716"
+         x="89.188988">software libre</tspan>
+    </text>
+    <rect
+       style="fill:none"
+       id="rect2622"
+       height="51.179222"
+       width="236.99939"
+       clip-rule="evenodd"
+       y="366.59998"
+       x="363.55521"
+       inkscape:export-filename="/home/joseantonio/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
